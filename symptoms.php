@@ -22,6 +22,7 @@
         "Anemia Disease" => array("fatigue", "weakness", "pale skin"),
         "Athlete's Foot Disease" => array("itching", "redness", "odor"),
         "Bobo Ka" => array("sakit ulo", "sakit akong ulo", "ulo"),
+        "Hilanat" => array("hilantan", "tugnaw",)
     );
 
     if(isset($_POST["submit"])) {
