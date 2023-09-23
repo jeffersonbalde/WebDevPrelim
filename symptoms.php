@@ -20,9 +20,7 @@
         "Diabetes Disease" => array("increased thirst", "frequent urination", "fatigue"),
         "Kidney Disease" => array("swelling", "high blood pressure", "fatigue"),
         "Anemia Disease" => array("fatigue", "weakness", "pale skin"),
-        "Athlete's Foot Disease" => array("itching", "redness", "odor"),
-        "Bobo Ka" => array("sakit ulo", "sakit akong ulo", "ulo"),
-        "Hilanat" => array("hilantan", "tugnaw",)
+        "Athlete's Foot Disease" => array("itching", "redness", "odor")
     );
 
     if(isset($_POST["submit"])) {
